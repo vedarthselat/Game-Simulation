@@ -1,0 +1,15 @@
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/bin/Debug/net7.0/Game Simulation
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/bin/Debug/net7.0/Game Simulation.deps.json
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/bin/Debug/net7.0/Game Simulation.runtimeconfig.json
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/bin/Debug/net7.0/Game Simulation.dll
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/bin/Debug/net7.0/Game Simulation.pdb
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.csproj.AssemblyReference.cache
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.AssemblyInfoInputs.cache
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.AssemblyInfo.cs
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.csproj.CoreCompileInputs.cache
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.dll
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/refint/Game Simulation.dll
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.pdb
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/Game Simulation.genruntimeconfig.cache
+/Users/vedarthselat/Desktop/LinkedIn Showing/Game Simulation/Game Simulation/obj/Debug/net7.0/ref/Game Simulation.dll
